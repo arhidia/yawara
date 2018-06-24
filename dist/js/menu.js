@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+﻿$( document ).ready(function() {
     $("#menu").append(
       '<nav class="navbar navbar-fixed-top navbar-inverse">'+
       '<div class="container">'+
@@ -16,7 +16,7 @@ $( document ).ready(function() {
             '<li class ="dropdown">'+
               '<a href="#" class="dropdown-toggle" data-toggle="dropdown">Om klubben<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
-              '<li><a href="#"> Kalender</a></li>'+
+              '<li><a href="omklubben/calendar.html"> Kalender</a></li>'+
               '<li><a href="#"> Træningstid og -sted</a></li>'+
               '<li><a href="#"> Instruktører</a></li>'+
             '</ul>'+
