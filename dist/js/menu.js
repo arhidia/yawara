@@ -16,27 +16,28 @@
             '<li class ="dropdown">'+
               '<a href="#" class="dropdown-toggle" data-toggle="dropdown">Om klubben<span class="caret"></span></a>'+
             '<ul class="dropdown-menu">'+
-              '<li><a href="omklubben/calendar.html"> Kalender</a></li>'+
-              '<li><a href="#"> Træningstid og -sted</a></li>'+
-              '<li><a href="#"> Instruktører</a></li>'+
+              '<li><a href="kalender.html"> Kalender</a></li>'+
+              '<li><a href="tidogsted.html"> Træningstid og -sted</a></li>'+
+              '<li><a href="instruktoerer.html"> Instruktører</a></li>'+
             '</ul>'+
             '</li>'+
             '<li class ="dropdown">'+
               '<a href="#about" class="dropdown-toggle" data-toggle="dropdown">Om Jiu-Jitsu<span class="caret"></span></a>'+
               '<ul class="dropdown-menu">'+
-                '<li><a href="#">Hvad laver vi?</a></li>'+
-                '<li><a href="#">Historien</a></li>'+
-                '<li><a href="#">Bæltesystem</a></li>'+
-                '<li><a href="#">Konkurrencesystem</a></li>'+
+                '<li><a href="os.html">Hvad laver vi?</a></li>'+
+                '<li><a href="historien.html">Historien</a></li>'+
+                '<li><a href="baeltesystem.html">Bæltesystem</a></li>'+
+                '<li><a href="konkurrencesystem.html">Konkurrencesystem</a></li>'+
               '</ul>   '+
             '</li>'+
             '<li class ="dropdown">'+
               '<a href="#contact" class="dropdown-toggle" data-toggle="dropdown">Arkiv<span class="caret"></span></a>'+
               '<ul class="dropdown-menu">'+
-                '<li><a href="#">Gradueringer</a></li>'+
-                '<li><a href="#">Klubarrangementer</a></li>'+
-                '<li><a href="#">Andre arrangementer</a></li>'+
-                '<li><a href="#">Galleri</a></li>'+
+		'<li><a href="artikler.html">Artikler</a></li>'+
+                '<li><a href="gradueringer.html">Gradueringer</a></li>'+
+                '<li><a href="klubarrangementer.html">Klubarrangementer</a></li>'+
+                '<li><a href="andrearrangementer.html">Andre arrangementer</a></li>'+
+                '<li><a href="galleri.html">Galleri</a></li>'+
               '</ul>'+
             '</li>'+
           '</ul>'+
